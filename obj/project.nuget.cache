@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrGgeb2l+sREjA8GtS9xm+N1ZJQ8T86jeEnp4HdX64byX+mGbXEadu4ugLJlmFwbR3TSG/7NP1S0drubw6Htng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terry\\Desktop\\HDProject\\HDProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Terry\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

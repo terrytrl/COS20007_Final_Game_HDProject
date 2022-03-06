@@ -1,0 +1,12 @@
+C:\Users\Terry\Desktop\HDProject\bin\Debug\netcoreapp2.0\HDProject.deps.json
+C:\Users\Terry\Desktop\HDProject\bin\Debug\netcoreapp2.0\HDProject.runtimeconfig.json
+C:\Users\Terry\Desktop\HDProject\bin\Debug\netcoreapp2.0\HDProject.runtimeconfig.dev.json
+C:\Users\Terry\Desktop\HDProject\bin\Debug\netcoreapp2.0\HDProject.dll
+C:\Users\Terry\Desktop\HDProject\bin\Debug\netcoreapp2.0\HDProject.pdb
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.csprojAssemblyReference.cache
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.AssemblyInfoInputs.cache
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.AssemblyInfo.cs
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.dll
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.pdb
+C:\Users\Terry\Desktop\HDProject\obj\Debug\netcoreapp2.0\HDProject.genruntimeconfig.cache
